@@ -1,3 +1,14 @@
 # 校长模拟器-Principal Simulator
-用二十年，打造你自己的顶尖高中。  作为校长，你将从零开始规划学校的未来：提升学术水平、培养师资、建设校园、塑造声誉。每年有限的行动点，意味着每一次选择都至关重要——投资实验室还是聘请名师？抓基础还是办精英班？  学生的成长是你最真实的答卷。 他们的高考分数和大学去向——清北、985、211、一本——将如实反映你的办学成果。看着一届届毕业生走出校门，你缔造的教育传奇也悄然成型。  你还可以与顶尖高校建立合作，获得特招通道与长期加成，让学校进入良性循环。  
-二十年，一步一步。 从平凡到卓越，从雏形到传奇。 这是属于你的办学之路，也是一所学校的成长史诗。  你的传奇，即将开篇。
+Principal Simulator is a 20-year management game where you build a top-tier high school from the ground up.
+
+As the principal, every decision is yours. Invest in teacher training, upgrade facilities, enhance academic programs, or launch elite classes—all within a tight annual budget and limited action points. Your choices shape the school's core stats: Academic Level, Faculty Strength, Campus Facilities, and Reputation.
+
+These stats determine student outcomes. Each year, three grades of students study, take exams, and eventually graduate. Their college admission results—whether they enter top-tier universities like Tsinghua and Peking, prestigious 985/211 institutions, or other first-tier colleges—become the true measure of your success.
+
+You can also form partnerships with renowned universities, unlocking special admission channels and long-term bonuses that propel your school into a virtuous cycle of growth.
+
+Watch your school evolve over two decades—from a modest beginning to an educational landmark. Detailed analytics, annual graduate reports, and milestone tracking let you witness the impact of every choice.
+
+Principal Simulator blends strategic planning with the satisfaction of nurturing talent and building a legacy. It's a journey of leadership, vision, and lasting impact.
+
+Will your school become a legend? The story begins with you.
